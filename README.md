@@ -1,3 +1,5 @@
+```
+
 // To view the default settings, hold "alt" while clicking on the "Settings" button.
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
 {
@@ -62,3 +64,5 @@
     // To unbind a default keybinding, set the command to "unbound"
     "keybindings": []
 }
+
+```
